@@ -1,0 +1,15 @@
+TO add folder into git ___ git init
+
+To add files created into git_____ git add <filename>
+
+TO add all files into git ____ git add --a
+
+To commit ___ git commit
+
+TO add files in the current working directory ___ git commit .
+
+TO push or upload files to online direc ____ git push (orgin not needed)
+
+To download or pull the changes made to the online repository to be applied to the local repository as well ----- git pull
+
+INSTEAD OF TYPING GIT ADD AND GIT COMMIT YOU CAN TYPE -------- git commit -am "changes have been made"
